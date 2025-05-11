@@ -1,0 +1,8 @@
+#git+https://github.com/huggingface/transformers
+transformers
+accelerate
+qwen-vl-utils[decord]==0.0.8
+peft
+datasets
+wandb
+torchvision
